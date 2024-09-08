@@ -10,7 +10,7 @@ global.location = "Pakistan, Karachi, Karachi" //ur location
 
 //new
 global.botname = '© 𝐆𝐋𝐎𝐁𝐀𝐋-𝐌𝐃' //ur bot name
-global.ownernumber = ['923444844060'] //ur owner number, dont add more than one
+global.ownernumber = ['62815859783969'] //ur owner number, dont add more than one
 global.ownername = '© GlobalTechInfo' //ur owner name
 global.websitex = "https://www.youtube.com/@GlobalTechInfo"
 global.wagc = "https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07"
@@ -18,10 +18,10 @@ global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/GlobalTechInfo/GLOBAL-MD' //script link
 global.packname = "Sticker By"
-global.author = "GlobalTechInfo\n\n+923444844060"
-global.creator = "923444844060@s.whatsapp.net"
+global.author = "GlobalTechInfo\n\n+62815859783969"
+global.creator = "62815859783969@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["923444844060"] // Premium User
+global.premium = ["62815859783969"] // Premium User
 
 //channel id
 global.xchannel = {
